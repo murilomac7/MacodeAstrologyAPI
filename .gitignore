@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.venv/
+# ephe/ is intentionally tracked — contains seas_18.se1 (Chiron ephemeris, ~223 KB)
+

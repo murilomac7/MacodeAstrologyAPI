@@ -1,0 +1,42 @@
+MacodeAstrologyAPI
+Copyright (C) 2026 murilomac7
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, version 3.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Corresponding Source (AGPL section 13):
+https://github.com/murilomac7/MacodeAstrologyAPI
+
+------------------------------------------------------------------------
+
+Swiss Ephemeris
+Copyright (C) 1997 - 2021 Astrodienst AG, Switzerland. All rights reserved.
+
+This software uses Swiss Ephemeris (via pyswisseph), made available by
+its authors under a dual licensing system:
+
+  a) GNU Affero General Public License (AGPL)
+  b) Swiss Ephemeris Professional License
+
+This project chooses the AGPL license for Swiss Ephemeris.
+
+Swiss Ephemeris is distributed with NO WARRANTY OF ANY KIND.
+
+Authors of the Swiss Ephemeris: Dieter Koch and Alois Treindl
+
+The names of the authors or of the copyright holder (Astrodienst) must
+not be used for promoting any software, product or service which uses or
+contains the Swiss Ephemeris, except as permitted by the Swiss Ephemeris
+license.
+
+See: https://www.astro.com/swisseph/
+     https://github.com/aloistr/swisseph
